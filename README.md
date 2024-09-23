@@ -1,0 +1,1 @@
+Este projeto simula o funcionamento de uma fábrica de tecelagem, modelando as interações entre os funcionários e suas tarefas. Através de algoritmos, o sistema imita o fluxo de trabalho, permitindo a análise da produtividade, alocação de recursos e otimização das operações. O objetivo é entender como diferentes variáveis impactam a eficiência do processo de tecelagem.
